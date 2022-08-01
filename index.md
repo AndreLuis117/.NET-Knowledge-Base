@@ -1,6 +1,12 @@
-## Welcome to GitHub Pages
+## Bem vindo a base de conhecimento .NET
 
-You can use the [editor on GitHub](https://github.com/AndreLuis117/.NET-Knowledge-Base/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Aqui você encontrará diversas referências que podem ser de grande valia para aqueles que estão começando a estudar sobre a plataforma .NET ou que buscam algum conhecimento extra.
+
+O intuito dessa página é então compilar diversos conhecimentos e referências como:
+
+- Referências a vídeos de terceiros disponíveis na internet
+- Explicações sobre a plataforma e suas características, versões, funcionamento etc
+- Problemas/Bugs conhecidos e suas soluções
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
